@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7BInvoice-react%7D%20%20/static/css/main.40dff184.css",
-    "main.js": "/%7BInvoice-react%7D%20%20/static/js/main.b7e9f2f6.js",
-    "static/js/787.9cc0bab2.chunk.js": "/%7BInvoice-react%7D%20%20/static/js/787.9cc0bab2.chunk.js",
-    "index.html": "/%7BInvoice-react%7D%20%20/index.html",
-    "main.40dff184.css.map": "/%7BInvoice-react%7D%20%20/static/css/main.40dff184.css.map",
-    "main.b7e9f2f6.js.map": "/%7BInvoice-react%7D%20%20/static/js/main.b7e9f2f6.js.map",
-    "787.9cc0bab2.chunk.js.map": "/%7BInvoice-react%7D%20%20/static/js/787.9cc0bab2.chunk.js.map"
+    "main.css": "/Invoice-react/static/css/main.40dff184.css",
+    "main.js": "/Invoice-react/static/js/main.2695f898.js",
+    "static/js/787.9cc0bab2.chunk.js": "/Invoice-react/static/js/787.9cc0bab2.chunk.js",
+    "index.html": "/Invoice-react/index.html",
+    "main.40dff184.css.map": "/Invoice-react/static/css/main.40dff184.css.map",
+    "main.2695f898.js.map": "/Invoice-react/static/js/main.2695f898.js.map",
+    "787.9cc0bab2.chunk.js.map": "/Invoice-react/static/js/787.9cc0bab2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40dff184.css",
-    "static/js/main.b7e9f2f6.js"
+    "static/js/main.2695f898.js"
   ]
 }
